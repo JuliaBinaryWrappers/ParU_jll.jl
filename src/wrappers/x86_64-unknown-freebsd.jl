@@ -5,7 +5,7 @@ using libblastrampoline_jll
 using LLVMOpenMP_jll
 using SuiteSparse_jll
 JLLWrappers.@generate_wrapper_header("ParU")
-JLLWrappers.@declare_library_product(libparu, "libparu.so.0")
+JLLWrappers.@declare_library_product(libparu, "libparu.so.1")
 function __init__()
     JLLWrappers.@generate_init_header(libblastrampoline_jll, LLVMOpenMP_jll, SuiteSparse_jll)
     JLLWrappers.@init_library_product(
