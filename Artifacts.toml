@@ -1,160 +1,160 @@
 [[ParU]]
 arch = "aarch64"
-git-tree-sha1 = "8f54174f8e63ccef5c22284ca9fcd3763d065e20"
+git-tree-sha1 = "8dd9862f492add16b0eccdbf021cf157e567519e"
 os = "macos"
 
     [[ParU.download]]
-    sha256 = "e748d92cda92f3eed37d7a858635215065247b9d940f4a147b1ef05781850232"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "66e78185d938bc6bd5c01d44286e2c06d48a38da5ee7d4fc16703ceebb839f98"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.aarch64-apple-darwin.tar.gz"
 [[ParU]]
 arch = "aarch64"
-git-tree-sha1 = "5dadb426039eef30f52e614f4341a9045be39340"
+git-tree-sha1 = "0d31da089a366c347fce3943a0a345bfb2c609b1"
 libc = "glibc"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "2a868da477feaeb60f45b36186372711d6135b35bceea109b8c280908e6cae8b"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "6a412ec5dbb8e46633fc0740769f71795a324e07974becea0678950b66950e79"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.aarch64-linux-gnu.tar.gz"
 [[ParU]]
 arch = "aarch64"
-git-tree-sha1 = "6b7243b8af4fb454fc69ac97901f4b8614284f56"
+git-tree-sha1 = "674063e2140cdb65f25d63459bbf549d76ad0a9a"
 libc = "musl"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "7f86e40fc882aac443f88c8bde592d4a49533484661ce19a7c83a318257f46de"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "66a3bfa058004e529027f1a76b4aeb78fc26eae197d2654f64225cdb1cb211bb"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.aarch64-linux-musl.tar.gz"
 [[ParU]]
 arch = "aarch64"
-git-tree-sha1 = "32616a06ac1d691f86b01993ac69da3fb14abdae"
+git-tree-sha1 = "67ea949fc26fe13ddc77c2758dedba1543d7be4d"
 os = "freebsd"
 
     [[ParU.download]]
-    sha256 = "878fcd39ec866b5d5d7eb767390875a08f2dd5a860cbab84a18780831c5c304d"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "c5ec5ebcc72b1290464191cf58a6cc89dd1a240ff19b52912ee7fc458989399c"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.aarch64-unknown-freebsd.tar.gz"
 [[ParU]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "25f704516ed450b23de313fe1d37b69d93a15883"
+git-tree-sha1 = "1e43210e191e4209795e1e5bc5e165b630b679e3"
 libc = "glibc"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "260077790fec0d1f9cf05b40494aacf2ba4d466c436666d141d06acfc78f6f44"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "badf6a665657c5636785336e4f0be7b353b73f373f43700a84eb6836d96511ea"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
 [[ParU]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f0ca45afdd52579e18fc3f97e35e919bd25a5d68"
+git-tree-sha1 = "1f9d454acfa6b8caaffafa2d73ed3f4183ac0067"
 libc = "musl"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "f1947ae6181b54b3f14cf033e718b5c359e249721c2b4c001040d18a8a430e5e"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4bf9ed380e6b1c0abcd4ed42a356c5f4bb5c2eea40f7a6467f233cb799c79a51"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.armv6l-linux-musleabihf.tar.gz"
 [[ParU]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "88edb4405dec9553f47a20247cee69a1b8c471d4"
+git-tree-sha1 = "c270aabdfa09f1badb3ae54080ccd9f825ff0f36"
 libc = "glibc"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "774816fb0162355ec6ab790ddf09c1897e4ef9c35ca59ac021855094d1665867"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7125ea8114d71938465072548f9215fc9791dd97ffb58334f14a00cc2747e5f5"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
 [[ParU]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a2ac58f96b04b434d73a744204b112deeafcc8f5"
+git-tree-sha1 = "39e43e939c7c8f7d366a03739f4a7a916a62dd44"
 libc = "musl"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "4a4a7ff30bc09dcad7bf82a86f4e286a14b64eb5bf5a1bafd624c8c08e0a9fcc"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "8ac9ed876b6b0edbcb17e4f62fb658f7684d2ad22b29b4e0c3deae10b118162b"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.armv7l-linux-musleabihf.tar.gz"
 [[ParU]]
 arch = "i686"
-git-tree-sha1 = "8b5646e4b4ff736377b6d0e7808933ad91b17cdb"
+git-tree-sha1 = "cf706abe2cecaac551da740298dfeb944e58c6df"
 libc = "glibc"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "05d3e802449ac8541ad0cbee153e253317c9ea5d3e4819ea2a5c5f582cee69a8"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "a498b58c56d30fe6cfd95d84d46d2123b3cc23b1bb4b0c27d9d1a1b4b737a473"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.i686-linux-gnu.tar.gz"
 [[ParU]]
 arch = "i686"
-git-tree-sha1 = "81986fb7d8889ea25257b98db382e791737c1c51"
+git-tree-sha1 = "b6b3679b8d7f8b6496ad941cbf677016a98e5137"
 libc = "musl"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "cbaff242d43bf01e2d3bedc226112a2151926633736535c2aa52c356360788fc"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.i686-linux-musl.tar.gz"
+    sha256 = "c4e94b92d87823f0feb5f1a9d4a9fe3af87730291979d95890d1238cc82e1af0"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.i686-linux-musl.tar.gz"
 [[ParU]]
 arch = "i686"
-git-tree-sha1 = "fdf3b792da548ce2134df5edf4beb4bad1b5c72f"
+git-tree-sha1 = "22733c68c6109d3b6e86960fdc00a3d7eb46a4a7"
 os = "windows"
 
     [[ParU.download]]
-    sha256 = "e0d9d195205011274414a17a441fc8fc05407f96c30de497a886194a9302dfed"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.i686-w64-mingw32.tar.gz"
+    sha256 = "313859fea72af3f86b04078ec88469874317233eaf8061b5b846a8e3fae04f78"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.i686-w64-mingw32.tar.gz"
 [[ParU]]
 arch = "powerpc64le"
-git-tree-sha1 = "f4b9d88db5c18f373a63bd818cab84d8ab459726"
+git-tree-sha1 = "3052cc8747388883bae558233ebb02c4c311e337"
 libc = "glibc"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "383a66bf04415fc7ba6c7a667981db99abe329fb5a5f0cf7b48d0cebdbd9a276"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "531e8f7e9fa60d1c009f2d6c2325683370814bd1f599f42841f4d65277f433b8"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.powerpc64le-linux-gnu.tar.gz"
 [[ParU]]
 arch = "riscv64"
-git-tree-sha1 = "f9572ed2a7e3aae25c642753cb74a9fb03a8b314"
+git-tree-sha1 = "f51b9cf5e0d96f33a6ffbd5130af8900a53ca6b4"
 libc = "glibc"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "e73ded2993cefd38f92d3663bd75051040f0338bc0f5a3cbac55aa13d1469fca"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "840be5064d0ca0a27b5af3ea2b895817583d43e25e8d928e0c64ce183ea3c6f6"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.riscv64-linux-gnu.tar.gz"
 [[ParU]]
 arch = "x86_64"
-git-tree-sha1 = "01b3fd0c2402cb70fcaf1e9b475fdb6260562bb3"
+git-tree-sha1 = "a1ebddbcef34376077084369ee4b854e7b69072b"
 os = "macos"
 
     [[ParU.download]]
-    sha256 = "9b6f21690a0b15548c9dc996bca9020359e22162ecffde6f0ea85fe70144a874"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "885b057469065ad3af97f5234f294a753616d6b016cb819214951ea2abe25d09"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.x86_64-apple-darwin.tar.gz"
 [[ParU]]
 arch = "x86_64"
-git-tree-sha1 = "5d7579982a8c9a7aaf03f4b395c3830650a8dc30"
+git-tree-sha1 = "d218a04a31f0901144e625f450fea7e1aa9321b9"
 libc = "glibc"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "ee7d810bc98e6ceed9c67d96658aa5283420dedc3c620497d78c71dd4079ee50"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "2b4225b3dc9184039ddbc80ec78675650f520cc3f86d40eed14566fea9a487fc"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.x86_64-linux-gnu.tar.gz"
 [[ParU]]
 arch = "x86_64"
-git-tree-sha1 = "f7ed5f5ba9aceb3ab4551c88cbe0fe160d69b4e1"
+git-tree-sha1 = "78da1230512bea545d31d678315d9f5c2746aeed"
 libc = "musl"
 os = "linux"
 
     [[ParU.download]]
-    sha256 = "899e98a3f46e58a78fc7c6d727975dcbbdbe21899ce3a362f0635689e37966ca"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "2e94163936de68b52266aff23890c534fbf9b9ea25015e96b9df8f716c1795d2"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.x86_64-linux-musl.tar.gz"
 [[ParU]]
 arch = "x86_64"
-git-tree-sha1 = "e2542897da39cdfff0bb460497fd2e5954824404"
+git-tree-sha1 = "b5a8b9d7df82a567967114f18edc935f81008247"
 os = "freebsd"
 
     [[ParU.download]]
-    sha256 = "04da56377c158d63f8580d69d525c90901e1d2547ef4a3d541aa7c357269bb91"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f007abe12e605654b19cb6c32b8e615f82a2d91597c547acaa1d93f3c8878c57"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.x86_64-unknown-freebsd.tar.gz"
 [[ParU]]
 arch = "x86_64"
-git-tree-sha1 = "493844b7e655afc3def4689b887a2962faa69468"
+git-tree-sha1 = "c59e4f90a26e546e9742afb525e799cfcafafec3"
 os = "windows"
 
     [[ParU.download]]
-    sha256 = "732ac4aff7cc2ddc528b401a4a2a407d0a192f2506f2bb31c1bfa965b76e06a1"
-    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+0/ParU.v1.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "7ef435ae8555696461832632e159679d7486ff3434b079288bff1d3ec284b27c"
+    url = "https://github.com/JuliaBinaryWrappers/ParU_jll.jl/releases/download/ParU-v1.0.0+1/ParU.v1.0.0.x86_64-w64-mingw32.tar.gz"
